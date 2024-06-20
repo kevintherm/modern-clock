@@ -14,4 +14,4 @@ serve .
 
 ### Look Around
 
-https://kevintherm.github.io/simple-digital-clock
+https://kevintherm.github.io/modern-clock
